@@ -1,2 +1,1 @@
-print("app_name1")
-print("hi")
+print("app_name1 hi")
