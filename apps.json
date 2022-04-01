@@ -1,1 +1,1 @@
-{"message": "success", "apps": [{"name": "Test_App!", "code": "https://github.com/XG213/LimeOS-appstore-api/raw/main/app_name1.lua"}, {"name": "Test_App2!", "code": "https://github.com/XG213/LimeOS-appstore-api/raw/main/app_name2.lua"}], "number": 2}
+{"message": "success", "apps": [{"name": "Test_App!", "code": "https://github.com/XG213/LimeOS-appstore-api/raw/main/app_name1.lua", "author": "person1"}, {"name": "Test_App2!", "code": "https://github.com/XG213/LimeOS-appstore-api/raw/main/app_name2.lua", "author": "person2"}], "number": 2}
